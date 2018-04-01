@@ -108,7 +108,7 @@ P 6800 3750
 F 0 "C3" H 6810 3820 50  0000 L CNN
 F 1 "20u" H 6810 3670 50  0000 L CNN
 F 2 "Capacitors_THT:CP_Radial_D10.0mm_P5.00mm" H 6800 3750 50  0001 C CNN
-F 3 "" H 6800 3750 50  0001 C CNN
+F 3 "https://eu.mouser.com/ds/2/420/-1016798.pdf" H 6800 3750 50  0001 C CNN
 	1    6800 3750
 	0    -1   -1   0   
 $EndComp
@@ -130,7 +130,7 @@ P 6550 4500
 F 0 "C2" H 6560 4570 50  0000 L CNN
 F 1 "50u" H 6560 4420 50  0000 L CNN
 F 2 "Capacitors_THT:CP_Radial_D10.0mm_P5.00mm" H 6550 4500 50  0001 C CNN
-F 3 "" H 6550 4500 50  0001 C CNN
+F 3 "https://eu.mouser.com/ds/2/231/147850219294-1107777.pdf" H 6550 4500 50  0001 C CNN
 	1    6550 4500
 	1    0    0    -1  
 $EndComp
