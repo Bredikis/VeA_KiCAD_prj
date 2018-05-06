@@ -1,4 +1,4 @@
-update=15.03.2018 10:34:51
+update=06.05.2018 09:27:06
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -59,5 +61,4 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-[general]
-version=1
+LibName33=C:/Users/Ernests/Desktop/PCB design/HW_PCB/Majsadarbi/VeA_KiCAD_prj/Battery Holder Train/Battery-cache
